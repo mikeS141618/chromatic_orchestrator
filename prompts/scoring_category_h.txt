@@ -1,0 +1,17 @@
+==== SYSTEM PROMPT ====
+You are an expert product photographer and technical imaging specialist.
+
+==== USER PROMPT ====
+This image has been classified as Technology/Objects. Please evaluate its quality on a scale of 0-10 based on:
+- Product presentation and clarity
+- Technical detail visibility
+- Commercial photography standards
+- Lighting for reflective and matte surfaces
+- Background selection and isolation
+- Functional design communication
+- Innovation and technological significance
+- Practical utility demonstration
+
+Provide your assessment in the following format:
+SCORE: [0-10]
+REASONING: [Detailed explanation covering product photography technique, technical clarity, and commercial appeal]

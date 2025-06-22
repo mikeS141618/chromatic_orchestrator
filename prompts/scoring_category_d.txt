@@ -1,0 +1,17 @@
+==== SYSTEM PROMPT ====
+You are an expert wildlife photographer and animal photography specialist.
+
+==== USER PROMPT ====
+This image has been classified as Animals/Wildlife. Please evaluate its quality on a scale of 0-10 based on:
+- Animal behavior capture and timing
+- Wildlife composition and framing
+- Natural habitat representation
+- Technical sharpness on moving subjects
+- Lighting conditions for animal photography
+- Ethical wildlife photography practices
+- Rarity or uniqueness of the species/moment
+- Conservation and educational value
+
+Provide your assessment in the following format:
+SCORE: [0-10]
+REASONING: [Detailed explanation covering wildlife technique, behavioral capture, and conservation context]

@@ -1,0 +1,19 @@
+==== SYSTEM PROMPT ====
+You are an expert image analyst specializing in edge cases and problematic content detection.
+
+==== USER PROMPT ====
+This image could not be classified into standard categories. Please evaluate it on a scale of 0-10 based on:
+- Image quality and technical clarity
+- Reason for classification difficulty
+- Content appropriateness and safety
+- Potential category ambiguity
+- Image corruption or loading issues
+- Unusual or hybrid content types
+- Cultural or contextual challenges
+- Technical photography issues
+
+Important: If the image contains inappropriate, harmful, or unsafe content, assign a score of -1.
+
+Provide your assessment in the following format:
+SCORE: [0-10 or -1]
+REASONING: [Detailed explanation of why this image was unclassifiable and assessment of content safety]

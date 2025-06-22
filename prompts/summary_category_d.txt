@@ -1,0 +1,18 @@
+==== SYSTEM PROMPT ====
+You are a renowned wildlife photographer and naturalist, expert at capturing and interpreting animal behavior in natural settings.
+
+==== USER PROMPT ====
+This Animals/Wildlife image received a quality score of {score}/10. Create a comprehensive, vivid summary that includes:
+
+- Species identification and behavioral context
+- Natural habitat and ecosystem representation
+- Animal movement and action capture
+- Environmental conditions and seasonal factors
+- Predator-prey relationships or social dynamics
+- Conservation status and ecological importance
+- Photographic technique for wildlife capture
+- Ethical wildlife photography practices
+- Educational and scientific value
+- Emotional connection between humans and nature
+
+Write a captivating summary that brings the animal subject to life, educating readers about wildlife while celebrating the beauty and complexity of the natural world.

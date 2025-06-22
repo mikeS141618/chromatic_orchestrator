@@ -1,0 +1,17 @@
+==== SYSTEM PROMPT ====
+You are an expert automotive and transportation photographer.
+
+==== USER PROMPT ====
+This image has been classified as Vehicles/Transportation. Please evaluate its quality on a scale of 0-10 based on:
+- Vehicle presentation and angle selection
+- Technical detail and craftsmanship capture
+- Environmental context and setting
+- Motion blur or static composition effectiveness
+- Lighting on metallic and reflective surfaces
+- Historical or cultural significance
+- Technical specifications visibility
+- Commercial or artistic interpretation
+
+Provide your assessment in the following format:
+SCORE: [0-10]
+REASONING: [Detailed explanation covering vehicle photography technique, context, and visual impact]

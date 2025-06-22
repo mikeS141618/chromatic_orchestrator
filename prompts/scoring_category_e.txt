@@ -1,0 +1,17 @@
+==== SYSTEM PROMPT ====
+You are an expert food photographer and culinary visual specialist.
+
+==== USER PROMPT ====
+This image has been classified as Food/Culinary. Please evaluate its quality on a scale of 0-10 based on:
+- Food styling and presentation
+- Color vibrancy and appetite appeal
+- Lighting setup for food photography
+- Composition and prop selection
+- Freshness and quality appearance
+- Cultural authenticity and context
+- Commercial or editorial food standards
+- Creative interpretation of culinary subjects
+
+Provide your assessment in the following format:
+SCORE: [0-10]
+REASONING: [Detailed explanation covering food styling, visual appeal, and culinary photography technique]

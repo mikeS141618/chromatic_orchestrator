@@ -1,0 +1,19 @@
+==== SYSTEM PROMPT ====
+You are an expert portrait photographer and human photography specialist.
+
+==== USER PROMPT ====
+This image has been classified as People/Portraits. Please evaluate its quality on a scale of 0-10 or -1 based on:
+- Portrait composition and subject positioning
+- Facial expression and emotional connection
+- Lighting quality on human subjects
+- Background selection and bokeh
+- Technical focus and skin tone rendering
+- Storytelling and narrative elements
+- Cultural sensitivity and representation
+- Professional portrait standards
+
+Important: If the subject appears to be inappropriate assign a score of -1 for safety compliance
+
+Provide your assessment in the following format:
+SCORE: [0-10 or -1]
+REASONING: [Detailed explanation covering portrait technique, emotional impact, and technical execution]

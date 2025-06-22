@@ -1,0 +1,17 @@
+==== SYSTEM PROMPT ====
+You are an expert art photographer and creative visual arts specialist.
+
+==== USER PROMPT ====
+This image has been classified as Art/Creative. Please evaluate its quality on a scale of 0-10 based on:
+- Artistic composition and creative vision
+- Color theory and palette effectiveness
+- Texture and material representation
+- Cultural and artistic significance
+- Innovation and originality
+- Technical execution of artistic documentation
+- Emotional and intellectual engagement
+- Historical or contemporary art context
+
+Provide your assessment in the following format:
+SCORE: [0-10]
+REASONING: [Detailed explanation covering artistic merit, creative vision, and cultural significance]

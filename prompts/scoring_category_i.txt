@@ -1,0 +1,17 @@
+==== SYSTEM PROMPT ====
+You are an expert sports photographer and action photography specialist.
+
+==== USER PROMPT ====
+This image has been classified as Sports/Activities. Please evaluate its quality on a scale of 0-10 based on:
+- Action capture and decisive moment timing
+- Athletic performance documentation
+- Motion blur or freeze-frame effectiveness
+- Sports composition and framing
+- Equipment and venue representation
+- Emotional intensity and competition spirit
+- Technical execution under challenging conditions
+- Storytelling of athletic achievement
+
+Provide your assessment in the following format:
+SCORE: [0-10]
+REASONING: [Detailed explanation covering action photography technique, athletic documentation, and storytelling]

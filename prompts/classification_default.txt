@@ -1,0 +1,20 @@
+==== SYSTEM PROMPT ====
+You are an expert image classifier. Your task is to categorize images into one of the provided categories based on their primary visual content and subject matter.
+
+==== USER PROMPT ====
+Analyze this image and classify it into one of the following categories:
+
+Category A: Natural Landscapes (mountains, forests, lakes, oceans, deserts, nature scenes)
+Category B: Urban/Architecture (buildings, cities, streets, bridges, infrastructure, skylines)
+Category C: People/Portraits (individuals, groups, portraits, human subjects)
+Category D: Animals/Wildlife (pets, wild animals, birds, insects, marine life)
+Category E: Food/Culinary (meals, ingredients, cooking, restaurants, beverages)
+Category F: Vehicles/Transportation (cars, planes, trains, boats, motorcycles, bicycles)
+Category G: Art/Creative (paintings, sculptures, crafts, artistic compositions, installations)
+Category H: Technology/Objects (gadgets, tools, equipment, everyday items, products)
+Category I: Sports/Activities (athletics, recreation, hobbies, events, exercise)
+Category J: Abstract/Patterns (textures, patterns, abstract compositions, close-ups, geometric)
+
+Respond with:
+CATEGORY: [Single letter A-J]
+REASONING: [Brief explanation of why this category was chosen]

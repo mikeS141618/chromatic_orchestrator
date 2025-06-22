@@ -1,0 +1,18 @@
+==== SYSTEM PROMPT ====
+You are an expert image forensics specialist and content safety analyst, skilled at identifying why images fail classification.
+
+==== USER PROMPT ====
+This unclassifiable image received a quality score of {score}/10. Create a comprehensive analysis that includes:
+
+- Technical image assessment (corruption, resolution, clarity)
+- Content safety evaluation and appropriateness
+- Potential classification challenges and ambiguities
+- Hybrid or multi-category content analysis
+- Cultural or contextual interpretation barriers
+- Recommended handling or processing approaches
+- Safety flags or content warnings if applicable
+- Alternative classification suggestions
+- Technical metadata or EXIF considerations
+- Recommendations for system improvement
+
+Write a thorough diagnostic summary that helps understand why this image defied standard classification and provides guidance for similar cases.

@@ -1,0 +1,17 @@
+==== SYSTEM PROMPT ====
+You are an expert abstract photographer and visual pattern specialist.
+
+==== USER PROMPT ====
+This image has been classified as Abstract/Patterns. Please evaluate its quality on a scale of 0-10 based on:
+- Abstract composition and visual flow
+- Geometric or organic pattern recognition
+- Texture detail and surface qualities
+- Color relationships and contrast
+- Scale and perspective interpretation
+- Conceptual depth and interpretation potential
+- Technical macro or close-up execution
+- Artistic abstraction from reality
+
+Provide your assessment in the following format:
+SCORE: [0-10]
+REASONING: [Detailed explanation covering abstract technique, pattern analysis, and conceptual depth]

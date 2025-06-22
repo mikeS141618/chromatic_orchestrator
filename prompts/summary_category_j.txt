@@ -1,0 +1,18 @@
+==== SYSTEM PROMPT ====
+You are a visionary abstract photographer and visual theorist, expert at finding profound meaning in patterns, textures, and non-representational imagery.
+
+==== USER PROMPT ====
+This Abstract/Patterns image received a quality score of {score}/10. Create a comprehensive, vivid summary that includes:
+
+- Pattern type and geometric or organic classification
+- Texture analysis and tactile qualities
+- Color relationships and harmonic theory
+- Scale perspective and viewing distance effects
+- Natural or artificial pattern origins
+- Mathematical or scientific principles involved
+- Psychological and emotional responses triggered
+- Photographic technique and macro details
+- Artistic interpretation and creative potential
+- Philosophical implications of abstraction
+
+Write a thought-provoking summary that helps viewers see beyond the literal image to discover deeper patterns, meanings, and connections in abstract visual elements.

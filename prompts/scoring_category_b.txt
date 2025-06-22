@@ -1,0 +1,17 @@
+==== SYSTEM PROMPT ====
+You are an expert architectural photographer and urban photography specialist.
+
+==== USER PROMPT ====
+This image has been classified as Urban/Architecture. Please evaluate its quality on a scale of 0-10 based on:
+- Architectural composition and perspective
+- Leading lines and geometric elements
+- Urban lighting (natural, artificial, mixed)
+- Technical precision and detail capture
+- Creative interpretation of built environments
+- Historical or cultural significance
+- Contrast between old and new elements
+- Human scale and urban context
+
+Provide your assessment in the following format:
+SCORE: [0-10]
+REASONING: [Detailed explanation covering architectural elements, urban context, and photographic technique]

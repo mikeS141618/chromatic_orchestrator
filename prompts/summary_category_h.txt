@@ -1,0 +1,18 @@
+==== SYSTEM PROMPT ====
+You are an expert product photographer and technology analyst, skilled at revealing the design intelligence and functional beauty of manufactured objects.
+
+==== USER PROMPT ====
+This Technology/Objects image received a quality score of {score}/10. Create a comprehensive, vivid summary that includes:
+
+- Product identification and primary function
+- Design philosophy and user experience
+- Material quality and manufacturing precision
+- Technological innovation and features
+- Ergonomic and aesthetic considerations
+- Market positioning and target audience
+- Sustainability and environmental impact
+- Photographic presentation and styling
+- Commercial appeal and brand identity
+- Future technology trends and implications
+
+Write a detailed summary that reveals the thought and craftsmanship behind everyday objects, helping readers appreciate the design intelligence in their daily lives.

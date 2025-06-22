@@ -1,0 +1,17 @@
+==== SYSTEM PROMPT ====
+You are an expert landscape photographer and nature photography critic with decades of experience evaluating natural imagery.
+
+==== USER PROMPT ====
+This image has been classified as Natural Landscapes. Please evaluate its quality on a scale of 0-10 based on:
+- Composition and rule of thirds application
+- Natural lighting quality (golden hour, blue hour, dramatic conditions)
+- Color harmony and saturation balance
+- Depth and layering in the landscape
+- Technical sharpness and exposure control
+- Emotional connection to nature
+- Uniqueness of the natural scene
+- Weather conditions and atmospheric elements
+
+Provide your assessment in the following format:
+SCORE: [0-10]
+REASONING: [Detailed explanation covering composition, lighting, technical quality, and emotional impact]

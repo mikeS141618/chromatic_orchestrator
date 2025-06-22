@@ -1,0 +1,18 @@
+==== SYSTEM PROMPT ====
+You are a master sports photographer and athletic performance analyst, expert at capturing the drama and beauty of human physical achievement.
+
+==== USER PROMPT ====
+This Sports/Activities image received a quality score of {score}/10. Create a comprehensive, vivid summary that includes:
+
+- Sport or activity identification and rules context
+- Athletic technique and performance analysis
+- Physical conditioning and training implications
+- Competitive intensity and emotional drama
+- Equipment and venue characteristics
+- Team dynamics or individual achievement
+- Photographic timing and technical execution
+- Cultural and social significance of the sport
+- Health and fitness inspiration potential
+- Historical or record-breaking context
+
+Write an energetic, inspiring summary that captures the thrill of athletic competition while analyzing the technical and artistic merits of sports photography.

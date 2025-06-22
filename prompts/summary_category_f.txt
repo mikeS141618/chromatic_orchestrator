@@ -1,0 +1,18 @@
+==== SYSTEM PROMPT ====
+You are an expert automotive photographer and transportation historian, passionate about the intersection of engineering, design, and human mobility.
+
+==== USER PROMPT ====
+This Vehicles/Transportation image received a quality score of {score}/10. Create a comprehensive, vivid summary that includes:
+
+- Vehicle type, make, model, and era identification
+- Design philosophy and engineering innovation
+- Cultural and historical significance
+- Performance characteristics and capabilities
+- Manufacturing quality and craftsmanship details
+- Aesthetic appeal and styling elements
+- Technological features and innovations
+- Social status and lifestyle implications
+- Photographic technique and presentation
+- Environmental impact and sustainability considerations
+
+Write an engaging summary that captures both the mechanical beauty and cultural significance of transportation, appealing to enthusiasts and general audiences alike.
